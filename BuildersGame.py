@@ -1,5 +1,4 @@
 # Author: Alon Shkedy
-# Date: 11/24/2020
 # Description: Returns a set of the common words in two strings
 
 class BuildersGame:
